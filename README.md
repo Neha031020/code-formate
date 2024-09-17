@@ -1,27 +1,42 @@
-# CodeFormate
+# My Angular Project
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+## Description
 
-## Development server
+My Angular Project is a simple Angular application that demonstrates best practices for code organization and formatting.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Getting Started
 
-## Code scaffolding
+### Prerequisites
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+* Node.js (version 18 or later)
+* Angular CLI (version 15 or later)
 
-## Build
+### Installation
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+1. Clone the repository: `git clone https://github.com/Neha031020/code-formate.git`
+2. Install dependencies: `npm install`
+3. Run the application: `ng serve`
 
-## Running unit tests
+### Usage
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+* Open a web browser and navigate to `http://localhost:4200`
 
-## Running end-to-end tests
+## Features
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+* Code organization using modules and components
+* Best practices for Angular component architecture
+* Demonstration of Angular services and dependency injection
 
-## Further help
+## Contributing
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* Submit issues and pull requests to the GitHub repository
+* Follow the Angular coding style guide for contributions
+
+## License
+
+* MIT License
+
+## Authors and Acknowledgments
+
+* Neha Adlak - Project maintaine
+* js-beautify - Third-party libraries and resources used in the project
