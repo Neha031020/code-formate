@@ -1,0 +1,42 @@
+.code-formatter {
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .code-input {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    font-size: 14px;
+    font-family: monospace;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+  }
+  
+  .code-output {
+    width: 100%;
+    height: 200px;
+    padding: 10px;
+    font-size: 14px;
+    font-family: monospace;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+  }
+  
+  .format-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+  }
+  
+  .format-button:hover {
+    background-color: #3e8e41;
+  }
